@@ -1,7 +1,7 @@
 # Ghi chú phỏng vấn & Kiểm chứng nhanh (Validation Notes)
 
 > Dự án: Tổng hợp và Chuẩn hóa Báo cáo Lỗ hổng Pentest từ nhiều thành viên  
-> Nhóm thực hiện: Nhóm 5 thành viên (Phát, Nam, Đạt, Nhân, Chinh)
+> Nhóm thực hiện: Nhóm 6 thành viên (Phát, Nam, Đạt, Nhân, Chinh, Tài)
 
 ---
 
